@@ -7,7 +7,7 @@ Selecionamos 14 problemas para a resolução neste repositório. Segue a lista a
 <br />
 <b> Classificação </b>
 <ul>
-  <li> Iris </li>
+  <li> <a href=iris/> Iris </a> </li>
   <li> Car Evaluation </li>
   <li> Titanic </li>
   <li> Credit </li>
